@@ -1,4 +1,8 @@
-metadata_collector
+metadata collector
 ==================
 
 collect metadata
+
+license:
+========
+MIT
